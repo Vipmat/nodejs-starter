@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "NodeJs Training",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipmat/nodejs-starter.git"
+  },
+  "author": "Vipul Daripkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipmat/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/Vipmat/nodejs-starter#readme"
+}
